@@ -1,7 +1,7 @@
 {
   "name": "@corets/tag",
   "description": "Type tagging and branding for TypeScript",
-  "version": "0.1.0-0",
+  "version": "0.1.0-1",
   "author": "Maxim Kott",
   "license": "MIT",
   "main": "dist/index.js",
