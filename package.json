@@ -21,7 +21,7 @@
     "/dist"
   ],
   "repository": "github:corets/tag",
-  "homepage": "https://corets.github.io/tag",
+  "homepage": "https://docs.corets.io/helpers/tag",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
